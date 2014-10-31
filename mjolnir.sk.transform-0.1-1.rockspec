@@ -12,7 +12,7 @@ version = "0.1-1"
 
 -- General metadata:
 
-local url = "github.com/sk/mjolnir.sk.transform"
+local url = "github.com/kaliskiszymon/mjolnir.sk.transform"
 local desc = "Mjolnir module to transform windows."
 
 source = {url = "git://" .. url}
