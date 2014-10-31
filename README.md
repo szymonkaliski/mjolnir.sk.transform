@@ -1,6 +1,6 @@
 # mjolnir.sk.transform
 
-Animated window transformations for (Mjolnir)[https://github.com/sdegutis/mjolnir], originall code/idea from [yozlet's pull request](https://github.com/sdegutis/mjolnir/issues/483).
+Animated window transformations for [Mjolnir](https://github.com/sdegutis/mjolnir), originall code/idea from [yozlet's pull request](https://github.com/sdegutis/mjolnir/issues/483).
 
 ![](/assets/demo.gif)
 
